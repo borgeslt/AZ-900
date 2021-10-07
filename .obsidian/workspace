@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "5f03c776806545b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d411d76fd8c30f49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Links/Microsoft Docs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3696da3fcddf17ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "71780c3836ac304f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a4dfcc58e93910",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ab075d34ae222fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8a6492352f30e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "df3230535588d8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f5de2aafce580b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Links/Microsoft Docs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d411d76fd8c30f49",
+  "lastOpenFiles": [
+    "Links/Microsoft Docs.md",
+    "Links/Microsoft Learn.md",
+    "Untitled.md"
+  ]
+}
