@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/6 - Case study introduction.md",
+            "file": "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/6 - Case study introduction.md",
+                "file": "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d411d76fd8c30f49",
   "lastOpenFiles": [
+    "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
     "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/6 - Case study introduction.md",
     "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/5 - Get started with Azure accounts.md",
     "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/3 - What is Azure.md",
@@ -96,7 +97,6 @@
     "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/1 - Introduction.md",
     "Links/Microsoft Learn.md",
     "README.md",
-    "Links/Microsoft Docs.md",
-    "Links/Youtube.md"
+    "Links/Microsoft Docs.md"
   ]
 }
