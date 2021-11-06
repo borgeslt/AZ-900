@@ -1,0 +1,1 @@
+[[3 - Azure regions, availability zones, and region pairs]]

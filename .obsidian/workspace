@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d411d76fd8c30f49",
+        "id": "ec19d30640f42203",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d411d76fd8c30f49",
+  "active": "ec19d30640f42203",
   "lastOpenFiles": [
-    "Microsoft Learn - Azure Fundamentals/Part 2 - Describe core Azure services/README.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.3 - Describe core Azure architectural components/5 - Azure subscriptions and management groups.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.3 - Describe core Azure architectural components/4 - Azure resources and Azure Resource Manager.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.3 - Describe core Azure architectural components/3 - Azure regions, availability zones, and region pairs.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.3 - Describe core Azure architectural components/2 - Overview of Azure subscriptions, management groups, and resources.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.3 - Describe core Azure architectural components/1 - Introduction.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.2 - Discuss Azure fundamental concepts/3 - Describe cloud benefits and considerations.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.2 - Discuss Azure fundamental concepts/4 - Describe different cloud services.md",
     "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/6 - Case study introduction.md",
-    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/5 - Get started with Azure accounts.md",
-    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/3 - What is Azure.md",
-    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/4 - Tour of Azure Services.md",
-    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/2 - What is cloud computing.md",
-    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.1 - Introduction to Azure fundamentals/1 - Introduction.md",
-    "Links/Microsoft Learn.md",
-    "README.md",
-    "Links/Microsoft Docs.md"
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.2 - Discuss Azure fundamental concepts/2 - Discuss different types of cloud models.md",
+    "Microsoft Learn - Azure Fundamentals/Part 1 - Describe core Azure concepts/1.2 - Discuss Azure fundamental concepts/1 - Introduction.md"
   ]
 }

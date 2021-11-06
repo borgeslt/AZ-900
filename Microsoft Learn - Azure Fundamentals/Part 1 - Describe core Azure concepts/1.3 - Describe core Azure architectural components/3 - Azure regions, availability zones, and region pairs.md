@@ -1,0 +1,1 @@
+[[4 - Azure resources and Azure Resource Manager]]

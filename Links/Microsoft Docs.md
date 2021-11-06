@@ -6,6 +6,9 @@ https://azure.microsoft.com/en-us/pricing/tco/calculator/
 https://docs.microsoft.com/en-us/azure/architecture/gcp-professional/services
 
 
+[Home - Microsoft Azure](https://portal.azure.com/#home)
+
+
 
 
 
